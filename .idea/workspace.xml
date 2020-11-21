@@ -13,9 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daac7e49-c8c8-4665-a120-64876709f092" name="Default Changelist" comment="Fucking Awesome">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="daac7e49-c8c8-4665-a120-64876709f092" name="Default Changelist" comment="Fucking Awesome" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605974606976</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fucking Awesome">
+      <created>1605975290198</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605975290198</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +119,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/platforms/android" />
+    </ignored-roots>
     <MESSAGE value="asd" />
     <MESSAGE value="Fucking Awesome V1" />
     <MESSAGE value="Fucking Awesome V2" />
@@ -130,10 +138,10 @@
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605931859761" />
     <state x="987" y="369" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605972849396" />
-    <state x="1158" y="597" width="585" height="276" key="Github.ShareDialog" timestamp="1605973628788">
+    <state x="1158" y="597" width="585" height="276" key="Github.ShareDialog" timestamp="1605975347545">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1158" y="597" width="585" height="276" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605973628788" />
+    <state x="1158" y="597" width="585" height="276" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605975347545" />
     <state x="1159" y="405" width="701" height="737" key="Github.UntrackedFilesDialog" timestamp="1605973642823">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -154,14 +162,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="358" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605973403064" />
-    <state x="1518" y="524" key="SettingsEditor" timestamp="1605974475792">
+    <state x="1518" y="524" key="SettingsEditor" timestamp="1605975479364">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1518" y="524" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605974475792" />
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1605973450734">
+    <state x="1518" y="524" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605975479364" />
+    <state x="1072" y="604" key="SetupCloudRepositoryDialog" timestamp="1605975406638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605973450734" />
+    <state x="1072" y="604" key="SetupCloudRepositoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605975406638" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1605975301063">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605975301063" />
     <state x="691" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1605930978938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
