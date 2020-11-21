@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daac7e49-c8c8-4665-a120-64876709f092" name="Default Changelist" comment="Fucking Awesome">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kaFWhvejrTOmYAS8kb1hiLvoXo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BaiTap\Mobile Development\AndroidStudioProjects\Database" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daac7e49-c8c8-4665-a120-64876709f092" name="Default Changelist" comment="" />
+      <created>1605930828356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605930828356</updated>
+    </task>
+    <task id="LOCAL-00001" summary="asd">
+      <created>1605971817026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605971817026</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fucking Awesome">
+      <created>1605972338061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605972338061</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fucking Awesome V1">
+      <created>1605972399261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605972399261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fucking Awesome V2">
+      <created>1605972571384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605972571385</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fucking Awesome V2">
+      <created>1605972673388</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605972673388</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fucking Awesome">
+      <created>1605974606976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605974606976</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asd" />
+    <MESSAGE value="Fucking Awesome V1" />
+    <MESSAGE value="Fucking Awesome V2" />
+    <MESSAGE value="Fucking Awesome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fucking Awesome" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1165" y="562" width="946" height="572" key="#Notifications" timestamp="1605973395130">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1165" y="562" width="946" height="572" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1605973395130" />
+    <state x="987" y="369" key="FileChooserDialogImpl" timestamp="1605972849396">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605931859761" />
+    <state x="987" y="369" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605972849396" />
+    <state x="1158" y="597" width="585" height="276" key="Github.ShareDialog" timestamp="1605973628788">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1158" y="597" width="585" height="276" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605973628788" />
+    <state x="1159" y="405" width="701" height="737" key="Github.UntrackedFilesDialog" timestamp="1605973642823">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1159" y="405" width="701" height="737" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605973642823" />
+    <state width="2517" height="358" key="GridCell.Tab.0.bottom" timestamp="1605973403064">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="358" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605973403064" />
+    <state width="2517" height="358" key="GridCell.Tab.0.center" timestamp="1605973403064">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="358" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605973403064" />
+    <state width="2517" height="358" key="GridCell.Tab.0.left" timestamp="1605973403064">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="358" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605973403064" />
+    <state width="2517" height="358" key="GridCell.Tab.0.right" timestamp="1605973403064">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="358" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605973403064" />
+    <state x="1518" y="524" key="SettingsEditor" timestamp="1605974475792">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1518" y="524" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605974475792" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1605973450734">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605973450734" />
+    <state x="691" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1605930978938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605930978938" />
+    <state x="970" y="433" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1605972349055">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="970" y="433" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605972349055" />
+  </component>
+</project>
